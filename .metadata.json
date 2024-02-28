@@ -2,9 +2,5 @@
   {
     "package": "bmm",
     "releasetag": true
-  },
-  {
-    "package": "chkptstanr",
-    "releasetag": true
   }
 ]
