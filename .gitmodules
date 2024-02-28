@@ -5,3 +5,4 @@
 [submodule "bmm"]
 	path = bmm
 	url = https://github.com/venpopov/bmm
+	branch = *release
