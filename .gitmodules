@@ -9,7 +9,7 @@
 [submodule "bmm"]
 	path = bmm
 	url = https://github.com/venpopov/bmm
-	branch = v1.4.1
+	branch = v1.4.2
 [submodule "chkptstanr"]
 	path = chkptstanr
 	url = https://github.com/venpopov/chkptstanr
